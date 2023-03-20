@@ -1,4 +1,5 @@
 
-public interface BMICalc {
+public interface BMICalc  {
 
 }
+       
